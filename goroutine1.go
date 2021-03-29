@@ -1,6 +1,6 @@
 package main
 import "fmt"
-func main()  {
+func  channel1 ()  {
 	done:= make(chan bool)
 	
 	

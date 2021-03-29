@@ -1,6 +1,6 @@
 package main
 import "fmt"
-func main (){
+func channel2 (){
     const	N=10
 	done:=make(chan bool,N)
 	
